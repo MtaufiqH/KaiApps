@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KaiApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="kategori">kategori</string>
+    <string name="about">About</string>
+    <string name="terbaru">Terbaru</string>
+    <string name="success_claim">Success Claim</string>
+</resources>
